@@ -154,3 +154,5 @@ EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
 EMAIL_HOST_USER = '1348ff5f95113a'
 EMAIL_HOST_PASSWORD = '4bcf229c5d7bd2'
 EMAIL_PORT = '2525'
+
+ALLOWED_HOSTS = ['*']
